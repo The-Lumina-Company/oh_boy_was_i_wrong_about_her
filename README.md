@@ -1,1 +1,9 @@
-# oh_boy_was_i_wrong_about_her
+# Oh Boy, Was I Wrong About Her (2026) Türkçe Çeviri
+
+## Çeviri Ekibi
+
+| Görev | İsim |
+|---|---|
+| **Çevirmen** | Kağan |
+| **Editör** | --- |
+| **Son Kontrol** | shxd |
