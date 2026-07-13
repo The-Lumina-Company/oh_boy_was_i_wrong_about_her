@@ -1,0 +1,377 @@
+[Script Info]
+Title: The-Lumina-Company - Oh Boy, Was I Wrong About Her
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: Yes
+PlayResX: 1920
+PlayResY: 1080
+YCbCr Matrix: TV.709
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Main,Gandhi Sans,72,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,30,30,60,1
+Style: Italics,Gandhi Sans,72,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,-1,0,0,100,100,0,0,1,3.6,1.5,2,30,30,60,1
+Style: Flashback,Gandhi Sans,72,&H00FFFFFF,&H000000FF,&H00500000,&HA0500000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,30,30,60,1
+Style: Main - Top,Gandhi Sans,72,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,8,30,30,60,1
+Style: Sign_Basic,Trebuchet MS,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,6,3,2,30,30,54,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:10.00,Main,,0,0,0,,{\fscx75\fscy75\pos(1501.333,343)}Çeviri: Ka4qnn\NRedaksiyon: shxd\NEncode: shxd\NUpload: shxd\NLuminaSubs ekip arkadaşı arıyor!\Nhttps://discord.gg/akzHAQ2Dh6\N
+Dialogue: 9,0:00:06.28,0:00:08.55,Main,Girl,0,0,0,,Bugünkü beden dersini iple çekiyorum!
+Dialogue: 9,0:00:08.55,0:00:09.96,Main,Girl,0,0,0,,Ben de öyle!
+Dialogue: 9,0:00:09.96,0:00:11.05,Main,Girl,0,0,0,,Birini seçmen lazım artık.
+Dialogue: 9,0:00:11.05,0:00:12.15,Main,Girl,0,0,0,,Biliyorum ya!
+Dialogue: 9,0:00:12.15,0:00:13.36,Main,Girl,0,0,0,,Kesin seni seçeceğim.
+Dialogue: 9,0:00:13.89,0:00:16.83,Main,Ema,0,0,0,,Hey, şu yeni başlayan diziyi biliyor\Nmusunuz, {\i1}Yalnızlığın On Yılı{\i0}'nı?
+Dialogue: 9,0:00:16.83,0:00:17.83,Main,Ema,0,0,0,,İzliyor musun?
+Dialogue: 9,0:00:17.83,0:00:19.60,Main,Tsurumi,0,0,0,,İzliyorum, izliyorum!
+Dialogue: 9,0:00:19.60,0:00:21.12,Main,Ema,0,0,0,,Ya sen, Nikaido-san?
+Dialogue: 9,0:00:24.92,0:00:29.25,Main,Haruki,0,0,0,,Şey, ben pek dizi izlemem de...
+Dialogue: 9,0:00:29.25,0:00:31.26,Main,Ema,0,0,0,,Ne? Ciddi misin?
+Dialogue: 9,0:00:31.64,0:00:33.51,Main,Ema,0,0,0,,Kesinlikle bir şans vermelisin.
+Dialogue: 9,0:00:33.51,0:00:38.39,Main,Ema,0,0,0,,Başrolde Takura Mao var. Anne babamızın\Nyaşındaki birine göre inanılmaz güzel!
+Dialogue: 9,0:00:39.03,0:00:40.01,Main,Ema,0,0,0,,Gördün mü?
+Dialogue: 9,0:00:40.01,0:00:41.35,Main,Girl,0,0,0,,Gerçekten çok güzel!
+Dialogue: 9,0:00:41.35,0:00:43.39,Main,Girl,0,0,0,,Değil mi ama!
+Dialogue: 9,0:00:43.76,0:00:46.04,Main,Shiranami,0,0,0,,Şu yakınlarda çekilen dizi değil mi o?
+Dialogue: 9,0:00:46.04,0:00:47.04,Main,Tsurumi,0,0,0,,Yok artık!
+Dialogue: 9,0:00:47.04,0:00:51.66,Main,Tsurumi,0,0,0,,Aslında geçen Tachibana-san'ın,\NKinmiya-kun'u davet ettiğini duymuştum...
+Dialogue: 9,0:00:51.66,0:00:53.82,Main,Tsurumi,0,0,0,,...birlikte dizi setini falan gezmeye.
+Dialogue: 9,0:00:53.82,0:00:56.84,Main,Shiranami,0,0,0,,Bir dakika ya. O ikisinin\Ntakıldığını biliyordum ama...
+Dialogue: 9,0:00:56.84,0:00:58.85,Main,Shiranami,0,0,0,,...bu kadar ilerlediler mi yani?
+Dialogue: 9,0:00:58.85,0:00:59.78,Main,Girl,0,0,0,,Nasıl yani?
+Dialogue: 9,0:00:59.78,0:01:01.92,Main,Girl,0,0,0,,Ne? Anlamadın mı cidden?
+Dialogue: 9,0:01:01.92,0:01:04.45,Main,Ema,0,0,0,,Sence çıkıyorlar mıdır, Nikaido-san?
+Dialogue: 9,0:01:04.45,0:01:07.67,Main,Haruki,0,0,0,,Şey, bilmem ki, pek bir fikrim...
+Dialogue: 9,0:01:11.67,0:01:13.00,Main,Hayato,0,0,0,,Nikaido.
+Dialogue: 9,0:01:14.08,0:01:16.55,Main,Hayato,0,0,0,,Koridordan biri seni çağırıyordu.
+Dialogue: 9,0:01:18.56,0:01:21.41,Main,Haruki,0,0,0,,Deponun orayı işaret edip koşturarak gitti.
+Dialogue: 9,0:01:21.41,0:01:23.12,Main,Haruki,0,0,0,,Acelesi var gibiydi.
+Dialogue: 9,0:01:23.12,0:01:24.93,Main,Haruki,0,0,0,,Bir gidip baksan iyi olur.
+Dialogue: 9,0:01:25.94,0:01:28.30,Main,Haruki,0,0,0,,Ah, doğru ya! Şimdi hatırladım.
+Dialogue: 9,0:01:28.30,0:01:31.44,Main,Haruki,0,0,0,,Öğle arasında buluşacaktık.
+Dialogue: 9,0:01:31.44,0:01:33.65,Main,Haruki,0,0,0,,Kusura bakmayın, sonra görüşürüz.
+Dialogue: 9,0:01:33.65,0:01:34.37,Main,Shiranami,0,0,0,,Tamamdır.
+Dialogue: 9,0:01:34.37,0:01:35.30,Main,Tsurumi,0,0,0,,Görüşürüz.
+Dialogue: 9,0:01:35.30,0:01:36.62,Main,Ema,0,0,0,,İyi eğlenceler!
+Dialogue: 9,0:03:23.63,0:03:25.60,Main,Haruki,0,0,0,,Hayatımı kurtardın, Hayato.
+Dialogue: 9,0:03:29.48,0:03:35.73,Main,Haruki,0,0,0,,Off. Kızlar neden sürekli kimin kimden\Nhoşlandığı hakkında konuşup duruyor ki?
+Dialogue: 9,0:03:35.73,0:03:38.54,Main,Hayato,0,0,0,,Kız oldukları için olmasın?
+Dialogue: 9,0:03:38.54,0:03:41.36,Main,Hayato,0,0,0,,Himeko da bu tarz dizilere bayılır.
+Dialogue: 9,0:03:42.62,0:03:44.25,Main,Haruki,0,0,0,,Hime-chan da mı?
+Dialogue: 9,0:03:44.70,0:03:48.22,Main,Haruki,0,0,0,,Ben daha çok, hangi karakterin\Nhangi mecha'ya daha iyi oturduğu...
+Dialogue: 9,0:03:48.22,0:03:51.60,Main,Haruki,0,0,0,,...ya da şu oyun\Nyapımcısının yeni elemanlar işe alması...
+Dialogue: 9,0:03:51.60,0:03:55.33,Main,Haruki,0,0,0,,...ve ekibin şüpheli bir şekilde başka görevlere\Natanması gibi konularla ilgileniyorum.
+Dialogue: 9,0:03:55.33,0:03:56.63,Main,Haruki,0,0,0,,O yüzden...
+Dialogue: 9,0:03:56.63,0:04:01.26,Main,Hayato,0,0,0,,Ne olmuş yani? Okulda bu tarz şeylerle\Nilgilenen başka tipler yok mu?
+Dialogue: 9,0:04:01.26,0:04:05.21,Main,Haruki,0,0,0,,Var ama neredeyse hepsi erkek.
+Dialogue: 9,0:04:05.21,0:04:10.96,Main,Haruki,0,0,0,,Hem ortaokuldayken sanırım insanlar hakkımda\Nyanlış bir izlenime kapıldı, o yüzden...
+Dialogue: 9,0:04:12.53,0:04:16.20,Main,Haruki,0,0,0,,Hey, gülmesene be!\NSenin derdin değil nasıl olsa.
+Dialogue: 9,0:04:16.20,0:04:20.78,Main,Haruki,0,0,0,,Ondan sonra, kiminle ne konuşacağıma gerçekten\Nçok dikkat etmeyi öğrenmek zorunda kaldım!
+Dialogue: 9,0:04:19.60,0:04:22.53,Main - Top,Hayato,0,0,0,,Ah! Bu kadar sert vurma bari!
+Dialogue: 9,0:04:25.43,0:04:28.78,Main,Hayato,0,0,0,,Şaka bir yana, popüler olmak da\Nhep tozpembe değilmiş demek ki?
+Dialogue: 9,0:04:28.78,0:04:31.79,Main,Haruki,0,0,0,,Değil tabii. Tam bir eziyet.
+Dialogue: 9,0:04:33.40,0:04:35.79,Main,Haruki,0,0,0,,Şu kız muhabbetlerinden hiç anlamıyorum.
+Dialogue: 9,0:04:40.80,0:04:43.76,Main,Haruki,0,0,0,,Hey! Hayato, ne halt diyorsun sen?
+Dialogue: 9,0:04:43.76,0:04:48.53,Main,Hayato,0,0,0,,Ah, kusura bakma. Himeko morali bozulduğunda böyle yapmama izin verir.
+Dialogue: 9,0:04:48.53,0:04:50.82,Main,Haruki,0,0,0,,Ah, saçlarım şimdi mahvoldu!
+Dialogue: 9,0:04:50.82,0:04:53.81,Main,Haruki,0,0,0,,Düzgün dursun diye\Nne kadar uğraşıyorum ben buna.
+Dialogue: 9,0:04:54.33,0:04:55.92,Main,Hayato,0,0,0,,Özür diledim ya işte.
+Dialogue: 9,0:04:57.31,0:05:00.61,Main,Haruki,0,0,0,,A-Ama ben Hime-chan'a benzemem, tamam mı?
+Dialogue: 9,0:05:00.61,0:05:02.79,Main,Haruki,0,0,0,,O kadar kolay kurtulamazsın.
+Dialogue: 9,0:05:04.32,0:05:06.82,Italics,Hayato (M),0,0,0,,Dur biraz, Haruki aslında...
+Dialogue: 9,0:05:08.62,0:05:10.05,Italics,Hayato (M),0,0,0,,...bayağı tatlıymış?
+Dialogue: 9,0:05:14.02,0:05:15.25,Main,Haruki,0,0,0,,Hayato?
+Dialogue: 9,0:05:15.25,0:05:20.67,Main,Hayato,0,0,0,,K-Kız muhabbetinden nefret etsen bile\Nkamuflajının arkasına saklanabilirsin, değil mi?
+Dialogue: 9,0:05:20.67,0:05:23.84,Main,Hayato,0,0,0,,Her zamanki gibi düzgün\Nve uslu bir öğrenci gibi davran.
+Dialogue: 9,0:05:24.11,0:05:27.09,Main,Hayato,0,0,0,,Yani, bence bu rol yapma\Nişinde gerçekten iyisin.
+Dialogue: 9,0:05:28.35,0:05:30.46,Main,Haruki,0,0,0,,Rol yapmak demek...
+Dialogue: 9,0:05:32.02,0:05:40.11,Main,Haruki,0,0,0,,Peki Hayato, böyle rol yapıp herkesi\Nkandırmam hakkında ne düşünüyorsun?
+Dialogue: 9,0:05:42.13,0:05:43.33,Main,Hayato,0,0,0,,Hiçbir şey.
+Dialogue: 9,0:05:45.19,0:05:47.61,Main,Hayato,0,0,0,,Sadece, Haruki böyledir diyorum.
+Dialogue: 9,0:05:49.44,0:05:50.81,Main,Haruki,0,0,0,,Öyle mi?
+Dialogue: 9,0:05:55.63,0:05:57.79,Main,Hayato,0,0,0,,Sürekli şunlardan içiyorsun, Haruki.
+Dialogue: 9,0:05:57.79,0:06:00.25,Main,Haruki,0,0,0,,Besin almanın en kolay yolu bu.
+Dialogue: 9,0:06:00.25,0:06:01.45,Main,Hayato,0,0,0,,Marketten mi alıyorsun?
+Dialogue: 9,0:06:01.45,0:06:03.75,Main,Haruki,0,0,0,,Evet. Her sabah uğrarım.
+Dialogue: 9,0:06:03.75,0:06:07.20,Main,Haruki,0,0,0,,Ama sen hep yemeğini evden getirirdin, de...
+Dialogue: 9,0:06:07.20,0:06:09.12,Main,Haruki,0,0,0,,Hey! Onlar da ne öyle?
+Dialogue: 9,0:06:09.12,0:06:10.51,Main,Hayato,0,0,0,,Ha, bunlar mı?
+Dialogue: 9,0:06:10.89,0:06:12.70,Main,Hayato,0,0,0,,Pirinç kroketi bunlar.
+Dialogue: 9,0:06:15.55,0:06:18.07,Main,Hayato,0,0,0,,Onigirinin yarısıyla takas edelim mi?
+Dialogue: 9,0:06:18.07,0:06:19.52,Main,Haruki,0,0,0,,Ciddi misin?
+Dialogue: 9,0:06:23.18,0:06:24.65,Main,Haruki,0,0,0,,Mmm!
+Dialogue: 9,0:06:24.65,0:06:28.27,Main,Haruki,0,0,0,,Çok lezzetliymiş, içindeki\Npeynir de acayip yakışmış!
+Dialogue: 9,0:06:28.27,0:06:30.16,Main,Haruki,0,0,0,,Kim yaptı bunu? Hazır mı?
+Dialogue: 9,0:06:30.16,0:06:31.75,Main,Hayato,0,0,0,,Ben yaptım.
+Dialogue: 9,0:06:31.75,0:06:32.78,Main,Haruki,0,0,0,,Sen mi yaptın?!
+Dialogue: 9,0:06:33.40,0:06:35.01,Main,Hayato,0,0,0,,Neden şaşırdın ki?
+Dialogue: 9,0:06:41.19,0:06:45.12,Main,Haruki,0,0,0,,Yedi yıl cidden bayağı\Nuzun bir süreymiş demek...
+Dialogue: 9,0:06:46.66,0:06:47.66,Main,Hayato,0,0,0,,Haruki?
+Dialogue: 9,0:06:49.85,0:06:52.43,Main,Minoru,0,0,0,,Eee, beni buraya\Nniye çıkardın ki o zaman?
+Dialogue: 9,0:06:54.42,0:06:58.71,Main,Tomoko,0,0,0,,Şey... Senden küçük bir ricam\Nolacaktı, Senpai.
+Dialogue: 9,0:06:58.71,0:06:59.94,Main,Minoru,0,0,0,,Rica mı?
+Dialogue: 9,0:07:00.49,0:07:04.43,Main,Tomoko,0,0,0,,S-Senpai... L-lütfen hayatının\Ngeri kalanını bana ödünç ver!
+Dialogue: 9,0:07:04.43,0:07:05.94,Main,Minoru,0,0,0,,Ha? Neyi—
+Dialogue: 9,0:07:05.94,0:07:07.35,Main,Minoru,0,0,0,,Hey!
+Dialogue: 9,0:07:08.06,0:07:09.89,Main,Tomoko,0,0,0,,Çok özür dilerim!
+Dialogue: 9,0:07:09.89,0:07:13.29,Main,Tomoko,0,0,0,,Ama ne yapayım...\NSeni çok seviyorum, Senpai!
+Dialogue: 9,0:07:13.29,0:07:14.96,Main,Minoru,0,0,0,,G-Gerçekten mi?
+Dialogue: 9,0:07:14.96,0:07:16.37,Main,Tomoko,0,0,0,,Senpai!
+Dialogue: 9,0:07:19.83,0:07:20.88,Main,Tomoko,0,0,0,,Senpai.
+Dialogue: 9,0:07:20.88,0:07:23.73,Main,Minoru,0,0,0,,Hey, yürüyemiyorum ama böyle!
+Dialogue: 9,0:07:26.05,0:07:29.02,Main,Hayato,0,0,0,,Yani... Olur böyle şeyler işte. Olur öyle.
+Dialogue: 9,0:07:29.02,0:07:32.44,Main,Haruki,0,0,0,,A-Aynen, olur öyle şeyler. Doğru.
+Dialogue: 9,0:07:34.14,0:07:36.85,Main,Haruki,0,0,0,,Cidden kız muhabbetinden hiç anlamıyorum.
+Dialogue: 9,0:07:38.48,0:07:39.85,Main,Hayato,0,0,0,,Birde bana sor.
+Dialogue: 9,0:07:50.86,0:07:53.61,Main,Hayato,0,0,0,,N-Ne büyük tesadüf. Alışverişe mi çıktın?
+Dialogue: 9,0:07:53.61,0:07:56.02,Main,Haruki,0,0,0,,Evet, akşam yemeği için.
+Dialogue: 9,0:07:56.02,0:07:58.00,Main,Haruki,0,0,0,,Bekle... Oyuncaklı şeker mi onlar?
+Dialogue: 9,0:07:58.00,0:07:59.37,Main,Hayato,0,0,0,,Yok canım, ben sadece...
+Dialogue: 9,0:07:59.37,0:08:02.16,Main,Hayato,0,0,0,,Doğru ya!\NBen ev alışverişi yapıyordum!
+Dialogue: 9,0:08:02.16,0:08:04.63,Main,Hayato,0,0,0,,En iyisi asıl alacağımı alıp\Nhemen eve döneyim!
+Dialogue: 9,0:08:04.63,0:08:08.63,Main,Haruki,0,0,0,,Eski şeker serisinin parçalarından\Nüç boyutlu, minik bir maket yaptım!
+Dialogue: 9,0:08:10.79,0:08:12.13,Main,Hayato,0,0,0,,Cidden mi?
+Dialogue: 9,0:08:12.85,0:08:14.13,Main,Haruki,0,0,0,,Cidden.
+Dialogue: 9,0:08:14.51,0:08:17.26,Main,Hayato,0,0,0,,Bekle. O, Murao Teyze'nin eski dükkânı!
+Dialogue: 9,0:08:17.26,0:08:21.27,Main,Haruki,0,0,0,,Yapması hiç kolay olmadı. Üst\Nüste hep aynı bank çıktı.
+Dialogue: 9,0:08:22.70,0:08:26.65,Main,Haruki,0,0,0,,Olasılık yasalarına olan\Nsaygım arttı resmen.
+Dialogue: 9,0:08:26.65,0:08:31.03,Main,Hayato,0,0,0,,H-Harika! Hadi o zaman alışverişe! Akşam\Nyemeği için eksikleri alalım, Haruki!
+Dialogue: 9,0:08:31.03,0:08:32.03,Main,Hayato,0,0,0,,Değil mi?
+Dialogue: 9,0:08:35.96,0:08:37.66,Main,Haruki,0,0,0,,Oyuncaklı şekerleri unuttun!
+Dialogue: 9,0:08:40.96,0:08:44.58,Main,Hayato,0,0,0,,Evet, bugün birkaç güzel\Nindirime de denk geldik.
+Dialogue: 9,0:08:45.50,0:08:47.96,Main,Haruki,0,0,0,,Tam bir ev erkeğisin, Hayato.
+Dialogue: 9,0:08:47.96,0:08:49.03,Main,Hayato,0,0,0,,Sayılır.
+Dialogue: 9,0:08:52.46,0:08:54.12,Main,Hayato,0,0,0,,Ver bakalım şunları.
+Dialogue: 9,0:08:54.88,0:08:56.10,Main,Haruki,0,0,0,,Hayato?
+Dialogue: 9,0:08:56.71,0:08:58.69,Main,Hayato,0,0,0,,Gerisini sen taşırsın, tamam mı?
+Dialogue: 9,0:08:58.69,0:09:00.74,Main,Haruki,0,0,0,,Ha? Ah. Olur.
+Dialogue: 9,0:09:00.74,0:09:02.31,Main,Hayato,0,0,0,,Bu da bayağı ağırmış.
+Dialogue: 9,0:09:02.31,0:09:05.06,Main,Hayato,0,0,0,,Ha, genelde dondurulmuş gıda mı var?
+Dialogue: 9,0:09:05.36,0:09:06.69,Main,Hayato,0,0,0,,Acele etsek iyi olur o zaman.
+Dialogue: 9,0:09:09.42,0:09:11.57,Main,Hayato,0,0,0,,Her seferinde bu kadar çok mu şey alırsın?
+Dialogue: 9,0:09:11.57,0:09:16.00,Main,Haruki,0,0,0,,Ha? Yani, evet. Fırsat buldukça\Nstok yapmayı seviyorum.
+Dialogue: 9,0:09:16.00,0:09:17.26,Main,Hayato,0,0,0,,Demek öyle.
+Dialogue: 9,0:09:17.26,0:09:18.45,Main,Haruki,0,0,0,,Evet.
+Dialogue: 9,0:09:41.90,0:09:43.61,Flashback,Hayato,0,0,0,,O zaman, söz.
+Dialogue: 9,0:09:46.21,0:09:49.10,Main,Haruki,0,0,0,,Neyse, Hayato olduktan sonra...
+Dialogue: 9,0:09:52.48,0:09:54.09,Main,Haruki,0,0,0,,Ha, yok bir şey.
+Dialogue: 9,0:10:01.59,0:10:03.45,Main,Hayato,0,0,0,,Bunları nereye bırakayım?
+Dialogue: 9,0:10:03.45,0:10:06.23,Main,Haruki,0,0,0,,Şuraya bir yere bırak işte.
+Dialogue: 9,0:10:06.23,0:10:07.12,Main,Hayato,0,0,0,,Tamamdır.
+Dialogue: 9,0:10:07.12,0:10:09.50,Main,Hayato,0,0,0,,Hepsini hemen buzluğa kaldır ama.
+Dialogue: 9,0:10:10.40,0:10:12.23,Main,Hayato,0,0,0,,Neyse, ben artık ufaktan kaçayım.
+Dialogue: 9,0:10:12.23,0:10:13.63,Main,Haruki,0,0,0,,Şey, dur bir dakika!
+Dialogue: 9,0:10:13.63,0:10:14.34,Main,Hayato,0,0,0,,Ha?
+Dialogue: 9,0:10:14.88,0:10:17.53,Main,Haruki,0,0,0,,Şey... Şey diyecektim...
+Dialogue: 9,0:10:18.44,0:10:21.11,Main,Haruki,0,0,0,,Ha, doğru ya! Numaran!\NBana telefon numaranı versene...
+Dialogue: 9,0:10:21.11,0:10:23.81,Main,Haruki,0,0,0,,Bir de varsa sosyal medya\Nhesaplarını falan.
+Dialogue: 9,0:10:23.81,0:10:27.98,Main,Haruki,0,0,0,,Daha birbirimizin iletişim bilgilerini\Nalmadığımızı fark ettim de.
+Dialogue: 9,0:10:28.47,0:10:30.30,Main,Hayato,0,0,0,,Ah... O konuda...
+Dialogue: 9,0:10:31.01,0:10:32.23,Main,Hayato,0,0,0,,Kusura bakma.
+Dialogue: 9,0:10:41.50,0:10:44.86,Main,Hayato,0,0,0,,Benim cep telefonum yok.
+Dialogue: 9,0:10:51.33,0:10:55.08,Main,Haruki,0,0,0,,Hayato, tam bir salaksın!
+Dialogue: 9,0:10:55.75,0:10:58.48,Main,Himeko,0,0,0,,Ne?! Yarın yağmur mu yağacakmış?
+Dialogue: 9,0:10:58.48,0:11:03.51,Main,Himeko,0,0,0,,Iyy! Saçımın tepesi dümdüz sönecek,\Nkalanı da çalı gibi kabaracak artık...
+Dialogue: 9,0:11:03.85,0:11:06.04,Main,Hayato,0,0,0,,Ben yağmuru severim aslında.
+Dialogue: 9,0:11:06.04,0:11:09.44,Main,Hayato,0,0,0,,En azından bir şeyleri sulama işi\Nüstüme kalacak diye dert etmiyorum.
+Dialogue: 9,0:11:09.44,0:11:12.51,Main,Himeko,0,0,0,,Artık tarlada yaşamıyoruz farkındaysan!
+Dialogue: 9,0:11:12.51,0:11:14.52,Main,Hayato,0,0,0,,H-Ha, doğru ya, unutmuşum.
+Dialogue: 9,0:11:14.87,0:11:17.44,Main,Himeko,0,0,0,,Öğleden sonra hava açacak diye yazıyor.
+Dialogue: 9,0:11:17.44,0:11:19.28,Main,Himeko,0,0,0,,Küçük bir şemsiye alsam yeter herhalde.
+Dialogue: 9,0:11:19.28,0:11:20.29,Main,Hayato,0,0,0,,Telefon mu?
+Dialogue: 9,0:11:20.29,0:11:23.66,Main,Himeko,0,0,0,,Evet. Genelde doğru tahmin yapıyor,\Nbayağı kullanışlı bir şey.
+Dialogue: 9,0:11:24.14,0:11:26.41,Main,Hayato,0,0,0,,Gerçekten o kadar kullanışlı mı ya?
+Dialogue: 9,0:11:26.82,0:11:29.37,Main,Himeko,0,0,0,,Senin böyle şeylere hiç\Nilgin olmaz ki zaten.
+Dialogue: 9,0:11:30.02,0:11:33.31,Main,Hayato,0,0,0,,Haruki de telefonum yok diye bana kızdı.
+Dialogue: 9,0:11:33.31,0:11:35.29,Main,Himeko,0,0,0,,Hadi ya. Haru-chan demek?
+Dialogue: 9,0:11:35.64,0:11:40.48,Main - Top,Himeko,0,0,0,,Bak şimdi Hayato. Nasıl ki her\Neve bir buzdolabı şartsa,
+Dialogue: 9,0:11:40.48,0:11:43.34,Main - Top,Himeko,0,0,0,,ve her çiftliğe bir traktör lazımsa,
+Dialogue: 9,0:11:43.34,0:11:48.47,Main - Top,Himeko,0,0,0,,her insana da bir cep telefonu lazım.\NResmen temel bir ihtiyaç bu.
+Dialogue: 9,0:11:49.12,0:11:51.81,Main - Top,Himeko,0,0,0,,Senin hâlâ telefonunun olmaması\Nbayağı anormal bir durum yani!
+Dialogue: 9,0:11:51.81,0:11:54.81,Main,Hayato,0,0,0,,Ciddi misin? Cidden o kadar kötü mü?
+Dialogue: 9,0:11:55.15,0:11:58.90,Main,Himeko,0,0,0,,Tsukinose'deyken telefonun sadece\Ntek diş çektiğini biliyorum ama,
+Dialogue: 9,0:11:58.90,0:12:01.57,Main,Himeko,0,0,0,,yine de elinin altında bulunması iyi oluyor.
+Dialogue: 9,0:12:01.57,0:12:03.95,Main,Himeko,0,0,0,,Saki-chan'la her gün\Nmesajlaşabiliyorum mesela.
+Dialogue: 9,0:12:04.30,0:12:07.33,Main,Hayato,0,0,0,,Öyle mi? Murao-san nasılymış, iyi miymiş?
+Dialogue: 9,0:12:07.33,0:12:11.60,Main,Himeko,0,0,0,,İyi iyi. Ha, ama sanki senin için\Nbayağı endişeleniyor gibiydi.
+Dialogue: 9,0:12:11.60,0:12:12.58,Main,Himeko,0,0,0,,Bir şey mi yaptın yoksa?
+Dialogue: 9,0:12:12.58,0:12:14.27,Main,Hayato,0,0,0,,Ha? Ben mi?
+Dialogue: 9,0:12:14.27,0:12:17.84,Main,Hayato,0,0,0,,Zaten Murao-san'ın beni pek\Nsevdiğini sanmıyorum ya.
+Dialogue: 9,0:12:18.16,0:12:19.85,Main,Himeko,0,0,0,,Doğru, biliyorum.
+Dialogue: 9,0:12:19.85,0:12:23.84,Main,Himeko,0,0,0,,Ne zaman yanına gelsen\Ntuhaf tuhaf davranmaya başlardı.
+Dialogue: 9,0:12:23.84,0:12:25.95,Main,Himeko,0,0,0,,Belki de senden fiziken tiksiniyordur.
+Dialogue: 9,0:12:26.56,0:12:29.22,Main,Hayato,0,0,0,,Orada dur, Himeko.\NKalbimi kıracaksın bak.
+Dialogue: 9,0:12:30.40,0:12:33.74,Main,Himeko,0,0,0,,Neyse tamam, senin için\Nbiraz arayı yapmaya çalışırım.
+Dialogue: 9,0:12:33.74,0:12:34.86,Main,Hayato,0,0,0,,Lütfen yap!
+Dialogue: 9,0:12:34.86,0:12:39.61,Main,Himeko,0,0,0,,Eminim Haru-chan da bunca zaman\Nsonra seni gördüğüne sevinmiştir.
+Dialogue: 9,0:12:39.97,0:12:42.05,Main,Himeko,0,0,0,,Hâlâ arkadaşsınız, değil mi?
+Dialogue: 9,0:12:42.05,0:12:44.51,Main,Himeko,0,0,0,,Konuşacak bir sürü şeyiniz vardır eminim.
+Dialogue: 9,0:12:44.51,0:12:47.47,Main,Himeko,0,0,0,,Muhtemelen sadece seninle daha\Nçok konuşabilmek istiyordur.
+Dialogue: 9,0:12:47.47,0:12:48.88,Main,Hayato,0,0,0,,Yani, belki de.
+Dialogue: 9,0:12:49.92,0:12:51.34,Main,Hayato,0,0,0,,Haklı olabilirsin.
+Dialogue: 9,0:12:52.29,0:12:56.92,Italics,Hayato (M),0,0,0,,Düşünüce de... Haruki hakkında hâlâ\Nanlamadığım bir sürü şey var.
+Dialogue: 9,0:12:57.73,0:13:00.46,Italics,Hayato (M),0,0,0,,Aslında bir kız olduğu\Ngerçeği de dâhil buna.
+Dialogue: 9,0:13:00.79,0:13:02.74,Italics,Hayato (M),0,0,0,,Ya da az önce bana niye o kadar kızdığı...
+Dialogue: 9,0:13:02.74,0:13:03.84,Flashback,Haruki,0,0,0,,Aptal!
+Dialogue: 9,0:13:04.29,0:13:07.35,Italics,Hayato (M),0,0,0,,İleride başka yanlış anlaşılmalar\Nve fikir ayrılıkları da yaşayabiliriz.
+Dialogue: 9,0:13:09.04,0:13:10.47,Italics,Hayato (M),0,0,0,,Belki bir cep telefonum olsaydı...
+Dialogue: 9,0:13:10.99,0:13:14.70,Italics,Hayato (M),0,0,0,,birbirimizi daha yakından\Ntanımaya başlayabilirdik.
+Dialogue: 9,0:13:30.22,0:13:30.70,Main,Minamo,0,0,0,,Hmm?
+Dialogue: 9,0:13:31.25,0:13:33.27,Main,Hayato,0,0,0,,Görünüşe göre oldukça iyi büyüyorlar.
+Dialogue: 9,0:13:33.27,0:13:35.33,Main,Minamo,0,0,0,,Ah! Evet! Baksana.
+Dialogue: 9,0:13:35.86,0:13:38.33,Main,Minamo,0,0,0,,Kabaklar kocaman oldu.
+Dialogue: 9,0:13:38.33,0:13:41.34,Main,Minamo,0,0,0,,Budadığım domatesler ve\Npatlıcanlar da öyle.
+Dialogue: 9,0:13:41.84,0:13:43.89,Main,Minamo,0,0,0,,Şey, bir de...
+Dialogue: 9,0:13:44.38,0:13:47.09,Main,Hayato,0,0,0,,Ah, budama makasını ödünç alabilir miyim?
+Dialogue: 9,0:13:47.67,0:13:49.52,Main,Hayato,0,0,0,,Gelmişken şunları toplayalım bari.
+Dialogue: 9,0:13:49.52,0:13:51.87,Main,Hayato,0,0,0,,Bir poşet falan olsaydı\Niyi olurdu aslında.
+Dialogue: 9,0:13:51.87,0:13:54.49,Main,Minamo,0,0,0,,Bende poşet var!
+Dialogue: 9,0:13:59.12,0:14:00.94,Main,Minamo,0,0,0,,Vay canına!
+Dialogue: 9,0:14:03.68,0:14:09.05,Main,Minamo,0,0,0,,Ben, şey... Yarısı! Yarısını size\Nvermeme izin verir misiniz lütfen?
+Dialogue: 9,0:14:09.05,0:14:12.24,Main,Hayato,0,0,0,,Ha? Emin misin? Seve seve\Nalırım aslında, teşekkürler.
+Dialogue: 9,0:14:12.24,0:14:16.26,Main,Minamo,0,0,0,,Senin yardımın sayesinde bu küçücük\Nşeyleri hasat edebildim zaten!
+Dialogue: 9,0:14:16.26,0:14:19.56,Main,Hayato,0,0,0,,Lafı bile olmaz. Teşekkür ederim yine de.
+Dialogue: 9,0:14:19.56,0:14:20.75,Main,Minamo,0,0,0,,Ne demek!
+Dialogue: 9,0:14:25.81,0:14:27.01,Main,Minamo,0,0,0,,Ş-Şey...
+Dialogue: 9,0:14:28.51,0:14:32.46,Main,Minamo,0,0,0,,B-Bana e-posta adresini verir misin?
+Dialogue: 9,0:14:32.46,0:14:35.57,Main,Minamo,0,0,0,,F-Fikir danışabileceğim başka kimse yok da,
+Dialogue: 9,0:14:35.57,0:14:38.13,Main,Minamo,0,0,0,,hem daha soracak bir sürü sorum var.
+Dialogue: 9,0:14:38.13,0:14:43.01,Main,Minamo,0,0,0,,B-Böyle pat diye sormam seni\Nrahatsız edebilir, farkındayım...
+Dialogue: 9,0:14:43.01,0:14:48.40,Main,Minamo,0,0,0,,ama s-söz, hiç yük olmam. O yüzden\Nsenin için de uygunsa...
+Dialogue: 9,0:14:48.40,0:14:51.66,Main,Hayato,0,0,0,,Şey, bak... Kusura bakma.
+Dialogue: 9,0:14:53.84,0:14:56.33,Main,Minamo,0,0,0,,Anladım... Sorun değil.
+Dialogue: 9,0:14:57.04,0:15:00.67,Main,Hayato,0,0,0,,Yok, dur bir dakika! Senden\Nhoşlanmadığımdan değil!
+Dialogue: 9,0:15:01.00,0:15:01.68,Main,Minamo,0,0,0,,Ha?
+Dialogue: 9,0:15:02.40,0:15:04.34,Main,Hayato,0,0,0,,Sadece cep telefonum yok.
+Dialogue: 9,0:15:04.34,0:15:08.26,Main,Hayato,0,0,0,,Köyden yeni taşındım da, orada\Ntelefon doğru düzgün çekmiyordu bile.
+Dialogue: 9,0:15:08.26,0:15:09.58,Main,Hayato,0,0,0,,O yüzden...
+Dialogue: 9,0:15:17.25,0:15:22.44,Main,Minamo,0,0,0,,Ben C sınıfından Mitake. Mitake Minamo.
+Dialogue: 9,0:15:23.16,0:15:25.76,Main,Hayato,0,0,0,,Ben de A sınıfından Kirishima Hayato.
+Dialogue: 9,0:15:25.76,0:15:27.78,Main,Hayato,0,0,0,,Telefonumu aldığımda sana haber veririm.
+Dialogue: 9,0:15:28.34,0:15:30.53,Main,Minamo,0,0,0,,Söz mü?
+Dialogue: 9,0:15:33.26,0:15:36.83,Main,Hayato,0,0,0,,Evet, tabii ki. Söz.
+Dialogue: 9,0:15:43.20,0:15:46.32,Main,Iori,0,0,0,,Bu sırılsıklam hâlin de\Npek ateşliymiş, Kirishima.
+Dialogue: 9,0:15:46.32,0:15:47.91,Main,Hayato,0,0,0,,Kes sesini, Mori.
+Dialogue: 9,0:15:47.91,0:15:50.06,Main,Iori,0,0,0,,Ne var elinde?
+Dialogue: 9,0:15:50.06,0:15:52.09,Main,Hayato,0,0,0,,Birinin benimle paylaştığı sebzeler.
+Dialogue: 9,0:15:52.09,0:15:54.68,Main,Iori,0,0,0,,Nasıl oluyor da sebze alıyorsun ki?
+Dialogue: 9,0:15:54.99,0:15:56.72,Main,Hayato,0,0,0,,Ha? Kimse sana sebze vermiyor mu?
+Dialogue: 9,0:15:56.72,0:15:57.43,Main,Iori,0,0,0,,Hayır!
+Dialogue: 9,0:16:00.40,0:16:03.06,Main,Haruki,0,0,0,,İyi misin, Kirishima-kun?
+Dialogue: 9,0:16:03.31,0:16:05.31,Main,Hayato,0,0,0,,Şey... iyiyim.
+Dialogue: 9,0:16:05.31,0:16:07.71,Main,Haruki,0,0,0,,Bugün şemsiyeni yanına almayı mı unuttun?
+Dialogue: 9,0:16:07.71,0:16:09.82,Main,Haruki,0,0,0,,İhtiyacın varsa lütfen çekinme,\Nbunu kullanabilirsin.
+Dialogue: 9,0:16:10.18,0:16:12.12,Main,Hayato,0,0,0,,S-Sağ ol ama gerek yok, iyiyim böyle.
+Dialogue: 9,0:16:12.12,0:16:14.07,Main,Hayato,0,0,0,,Hemen kururum zaten.
+Dialogue: 9,0:16:14.07,0:16:16.72,Main,Haruki,0,0,0,,Olmaz öyle şey! Üşütebilirsin!
+Dialogue: 9,0:16:16.72,0:16:18.01,Main,Hayato,0,0,0,,Hey, Har—
+Dialogue: 9,0:16:18.01,0:16:19.33,Main,Hayato,0,0,0,,Nikaido!
+Dialogue: 9,0:16:21.47,0:16:23.33,Main,Tsurumi,0,0,0,,Bekle. Ne demek oluyor bu şimdi?
+Dialogue: 9,0:16:25.60,0:16:29.84,Italics,Hayato (M),0,0,0,,B-Bunu tamamen bilerek yapıyor!
+Dialogue: 9,0:16:30.14,0:16:33.64,Main,Hayato,0,0,0,,T-Tamam, teşekkürler.\NYıkayıp sana geri veririm.
+Dialogue: 9,0:16:33.64,0:16:36.50,Main,Haruki,0,0,0,,Ah, öylece geri versen de olur, sorun değil.
+Dialogue: 9,0:16:36.50,0:16:40.35,Main,Hayato,0,0,0,,Y-Yok artık, asla\Nöyle bir şey yapamam!
+Dialogue: 9,0:16:40.35,0:16:43.06,Main,Haruki,0,0,0,,Anlıyorum. O zaman,
+Dialogue: 9,0:16:43.06,0:16:47.23,Main,Haruki,0,0,0,,bana cep telefonu numaranı verirsen\Ngeri vermen çok daha kolay olur.
+Dialogue: 9,0:16:47.23,0:16:49.06,Main,Hayato,0,0,0,,N-Ne? Bekle bir dakika...
+Dialogue: 9,0:16:50.31,0:16:53.49,Main,Hayato,0,0,0,,K-Kusura bakma, cep telefonum yok.
+Dialogue: 9,0:16:53.79,0:16:59.20,Main,Haruki,0,0,0,,Aa, yok mu? Özür dilerim.\NBu kadar ısrar etmemeliydim.
+Dialogue: 9,0:16:59.20,0:16:59.74,Main,Hayato,0,0,0,,Hey!
+Dialogue: 9,0:17:00.01,0:17:04.28,Main,Iori,0,0,0,,Kıza telefon numarasını vermemek\Niçin cidden kırk takla atıyor!
+Dialogue: 9,0:17:04.28,0:17:06.37,Main,Ema,0,0,0,,Nikaido-san'a çok üzüldüm yazık.
+Dialogue: 9,0:17:07.17,0:17:11.63,Main,Hayato,0,0,0,,Ah! Hayır, bekleyin! Gerçekten\Ncep telefonum yok diyorum!
+Dialogue: 9,0:17:11.63,0:17:14.22,Main,Boy Student 1,0,0,0,,Kirishima, seninle iki çift\Nlaf etmemiz gerekiyor galiba.
+Dialogue: 9,0:17:14.22,0:17:18.77,Main,Boy Student 2,0,0,0,,Burada daha yenisin, o yüzden birbirimiz\Nhakkında bilmediğimiz çok şey var.
+Dialogue: 9,0:17:18.77,0:17:22.94,Main,Boy Student 3,0,0,0,,Korkma canım! Sadece birkaç basit\Nsorumuza cevap vermeni istiyoruz.
+Dialogue: 9,0:17:24.27,0:17:26.07,Main,Hayato,0,0,0,,Bekleyin! Benim...
+Dialogue: 9,0:17:26.07,0:17:28.61,Main,Hayato,0,0,0,,Mori! Seni züppe zırtapoz!
+Dialogue: 9,0:17:30.65,0:17:31.51,Main,Haruki,0,0,0,,Hihi.
+Dialogue: 9,0:17:36.72,0:17:41.89,Main,Haruki,0,0,0,,Gördün mü? Dediğim gibi işte. Telefonunun\Nolmaması böyle tuhaf, Hayato.
+Dialogue: 9,0:17:41.89,0:17:42.91,Main,Haruki,0,0,0,,Al sana!
+Dialogue: 9,0:17:43.72,0:17:46.65,Main,Hayato,0,0,0,,Evet, şimdi anladım. Başımı\Nbayağı belaya soktu zaten.
+Dialogue: 9,0:17:46.65,0:17:48.94,Main,Hayato,0,0,0,,Ayrıca senin ne kadar popüler olduğunu da—
+Dialogue: 9,0:17:48.94,0:17:49.67,Main,Hayato,0,0,0,,Yakaladım!
+Dialogue: 9,0:17:50.78,0:17:53.86,Main,Haruki,0,0,0,,E yani, öyle olması için çok uğraşıyorum—
+Dialogue: 9,0:17:53.86,0:17:55.55,Main,Haruki,0,0,0,,Bekle! Canım gitti!
+Dialogue: 9,0:17:55.91,0:17:58.17,Main,Hayato,0,0,0,,Çok agresif oynuyorsun. Can basmı—
+Dialogue: 9,0:17:58.17,0:18:00.05,Main,Hayato,0,0,0,,Benim de bitti!
+Dialogue: 9,0:18:00.46,0:18:02.02,Main,Haruki,0,0,0,,Ha?
+Dialogue: 9,0:18:02.02,0:18:03.56,Main,Haruki,0,0,0,,Mahvolduk!
+Dialogue: 9,0:18:03.56,0:18:05.14,Main,Haruki,0,0,0,,Ugh.
+Dialogue: 9,0:18:00.46,0:18:02.02,Main,Hayato,0,0,0,,Ha?
+Dialogue: 9,0:18:02.02,0:18:03.56,Main,Hayato,0,0,0,,Mahvolduk!
+Dialogue: 9,0:18:07.42,0:18:09.86,Main,Haruki,0,0,0,,Sanırım biraz fazla zorladık.
+Dialogue: 9,0:18:09.86,0:18:10.93,Main,Hayato,0,0,0,,Öyle sanırım.
+Dialogue: 9,0:18:13.07,0:18:15.40,Main,Haruki,0,0,0,,Bu arada, sebzeler nereden çıktı?
+Dialogue: 9,0:18:15.93,0:18:20.05,Main,Hayato,0,0,0,,Bahçıvanlık kulübünden Mitake-san\Nverdi. Teşekkür hediyesiymiş.
+Dialogue: 9,0:18:21.53,0:18:23.16,Main,Hayato,0,0,0,,Biraz ister misin?
+Dialogue: 9,0:18:23.52,0:18:27.16,Main,Haruki,0,0,0,,Yok, kalsın.\NTek başıma o kadarı bitiremem.
+Dialogue: 9,0:18:28.46,0:18:29.42,Main,Hayato,0,0,0,,Emin misin?
+Dialogue: 9,0:18:29.80,0:18:33.28,Main,Haruki,0,0,0,,Eee, senin niye cep telefonun yok bakayım?
+Dialogue: 9,0:18:33.28,0:18:35.17,Main,Haruki,0,0,0,,Evde falan yasak mı yoksa?
+Dialogue: 9,0:18:35.17,0:18:39.61,Main,Hayato,0,0,0,,Alakası bile yok. Himeko'nun var,\Nelinden düşürmüyor hatta.
+Dialogue: 9,0:18:39.61,0:18:42.32,Main,Hayato,0,0,0,,Ayrıca Himeko seni görmeyi çok ister.
+Dialogue: 9,0:18:42.32,0:18:43.93,Main,Hayato,0,0,0,,Bir ara bize gelsene.
+Dialogue: 9,0:18:43.93,0:18:47.31,Main,Haruki,0,0,0,,Ne? Hime-chan mı?\NGelirim tabii, kesin gelirim!
+Dialogue: 9,0:18:47.81,0:18:50.67,Main,Haruki,0,0,0,,Eee? Peki {\i1}senin{\i0} niye telefonun yok?
+Dialogue: 9,0:18:52.33,0:18:54.32,Main,Hayato,0,0,0,,Şey... Peki, tamam.
+Dialogue: 9,0:18:54.94,0:18:59.07,Main,Hayato,0,0,0,,Şey, aslında... Özel bir sebebi yok.
+Dialogue: 9,0:18:59.07,0:19:02.30,Main,Haruki,0,0,0,,Ha?! Bu kadar kullanışlı bir şeyken mi?
+Dialogue: 9,0:19:02.30,0:19:05.45,Main,Haruki,0,0,0,,Tsukinose'dekiler bile kesin kullanıyordur!
+Dialogue: 9,0:19:05.77,0:19:09.44,Main,Hayato,0,0,0,,Yani, evet. Çoğu kişi tarlayı idare\Netmek için uygulamalar kullanıyordu,
+Dialogue: 9,0:19:09.44,0:19:12.62,Main,Hayato,0,0,0,,ya da çift sürerken falan videolarını yüklüyorlardı.
+Dialogue: 9,0:19:13.15,0:19:14.45,Main,Hayato,0,0,0,,Aslında, Haruki-san...
+Dialogue: 9,0:19:14.45,0:19:16.84,Main,Hayato,0,0,0,,Sana bir şey söyleyeceğim\Nama gülmeyeceğine söz ver.
+Dialogue: 9,0:19:16.84,0:19:19.75,Main,Haruki,0,0,0,,Pekâlâ. Seni bu kadar düşündüren\Nneymiş bakayım, Hayato-kun?
+Dialogue: 9,0:19:19.75,0:19:21.09,Main,Haruki,0,0,0,,Dök içini.
+Dialogue: 9,0:19:21.41,0:19:24.87,Main,Hayato,0,0,0,,Şey, o kadar çok model var ki...
+Dialogue: 9,0:19:24.87,0:19:27.84,Main,Hayato,0,0,0,,Hangisini seçeceğimi bilemedim, o yüzden...
+Dialogue: 9,0:19:32.43,0:19:35.93,Main,Hayato,0,0,0,,Gülmesene be!\NBenim için ciddi bir mesele bu!
+Dialogue: 9,0:19:35.93,0:19:38.61,Main,Hayato,0,0,0,,Kahretsin! Bununla birlikte bana\Nbeş tane daha borçlandın!
+Dialogue: 9,0:19:39.04,0:19:43.42,Main,Haruki,0,0,0,,Kusura bakma. Şimdi anlaşıldı.\NDemek bu yüzdenmiş.
+Dialogue: 9,0:19:43.42,0:19:46.99,Main,Haruki,0,0,0,,O zaman bu hafta sonu gidip\Nbirlikte seçelim mi bir tane?
+Dialogue: 9,0:19:47.51,0:19:48.62,Main,Hayato,0,0,0,,Gerçekten mi?
+Dialogue: 9,0:19:49.12,0:19:51.18,Main,Haruki,0,0,0,,Evet. Söz veriyorum.
+Dialogue: 9,0:20:02.16,0:20:04.89,Main,Himeko,0,0,0,,Haruki, dondurma almaya gitmek istiyorum.
+Dialogue: 9,0:20:05.20,0:20:08.39,Main,Hayato,0,0,0,,Ha? Evde daha olması lazımdı.
+Dialogue: 9,0:20:09.64,0:20:13.07,Main,Himeko,0,0,0,,Haruki, ben sadece\Ndondurma yemek istemiyorum.
+Dialogue: 9,0:20:13.07,0:20:15.15,Main,Himeko,0,0,0,,Ben dondurma {\i1}almaya gitmek{\i0} istiyorum.
+Dialogue: 9,0:20:15.96,0:20:19.53,Main,Hayato,0,0,0,,Üzgünüm ama ne demek\Nistediğini hiç anlamadım.
+Dialogue: 9,0:20:19.53,0:20:20.82,Main,Hayato,0,0,0,,Kendin gitsene o zaman.
+Dialogue: 9,0:20:24.46,0:20:26.41,Main,Himeko,0,0,0,,Gece vakti açık bir market...
+Dialogue: 9,0:20:29.20,0:20:32.54,Main,Himeko,0,0,0,,Gece vakti açık bir marketten\Nalışveriş yapmak istiyorum işte.
+Dialogue: 9,0:20:34.49,0:20:36.43,Main,Hayato,0,0,0,,Sen... az önce ne dedin?
+Dialogue: 9,0:20:37.95,0:20:41.62,Main,Himeko,0,0,0,,Öyle sabah on birden akşam yediye\Nkadar açık olan, kıytırık...
+Dialogue: 9,0:20:41.62,0:20:45.28,Main,Himeko,0,0,0,,...çakma bir mahalle bakkalından bahsetmiyorum.
+Dialogue: 9,0:20:45.28,0:20:47.53,Main,Himeko,0,0,0,,Gece vakti açık olan\Nmarketlerden bahsediyorum.
+Dialogue: 9,0:20:47.53,0:20:50.18,Main,Himeko,0,0,0,,Bana katılacaksın, değil mi?
+Dialogue: 9,0:20:51.21,0:20:55.19,Main,Hayato,0,0,0,,Haklısın. En azından bir kez\Nbu riski almaya değer.
+Dialogue: 9,0:21:10.29,0:21:12.79,Main,Hayato,0,0,0,,Markete vardık.
+Dialogue: 9,0:21:12.79,0:21:15.50,Main,Himeko,0,0,0,,Markete vardık.
+Dialogue: 9,0:21:19.97,0:21:22.15,Main,Hayato,0,0,0,,Harbiden açıkmış!
+Dialogue: 9,0:21:22.15,0:21:24.10,Main,Himeko,0,0,0,,Evet, gerçekten açık!
+Dialogue: 9,0:21:25.00,0:21:26.30,Main,Hayato,0,0,0,,Bu arada Himeko,
+Dialogue: 9,0:21:26.30,0:21:29.26,Main,Hayato,0,0,0,,kafama takıldı da,\Nniye öyle giyindin sen?
+Dialogue: 9,0:21:30.67,0:21:32.35,Main,Himeko,0,0,0,,Moda girmek için!
+Dialogue: 9,0:21:32.35,0:21:35.27,Main,Himeko,0,0,0,,Dışarıya köylü kızı gibi\Nçıkmak istemedim herhalde.
+Dialogue: 9,0:21:37.22,0:21:38.34,Main,Himeko,0,0,0,,Şuna bak!
+Dialogue: 9,0:21:44.84,0:21:45.90,Main,Hayato,0,0,0,,Selam.
+Dialogue: 9,0:21:47.82,0:21:50.08,Main,Haruki,0,0,0,,İyi akşamlar, Kirishima-kun.
+Dialogue: 9,0:21:50.08,0:21:51.66,Main,Haruki,0,0,0,,Ne tesadüf ama.
+Dialogue: 9,0:21:52.14,0:21:53.91,Main,Hayato,0,0,0,,Evet, öyle valla.
+Dialogue: 9,0:22:01.97,0:22:03.92,Main,Haruki,0,0,0,,Ne kadar da tatlı bir kız.
+Dialogue: 9,0:22:04.55,0:22:05.60,Main,Hayato,0,0,0,,Ha?
+Dialogue: 9,0:22:06.60,0:22:08.78,Main,Haruki,0,0,0,,Kız arkadaşın mı?
+Dialogue: 0,0:01:55.67,0:02:04.35,Sign_Basic,text,0,0,0,,{\b1\pos(960,123.334)}AH, ONUN HAKKINDA FENA YANILMIŞIM
+Dialogue: 0,0:03:12.96,0:03:18.21,Sign_Basic,text,0,0,0,,{\an8\b1}MALZEME ODASI
+Dialogue: 0,0:03:14.08,0:03:18.21,Sign_Basic,text,0,0,0,,{\an8\b1}BÖLÜM 2 "KIZ MUHABBETİNDEN HİÇ ANLAMIYORUM"
+Dialogue: 0,0:05:55.25,0:06:00.25,Sign_Basic,text,0,0,0,,{\an8\b1}KALORİ TAKVİYELİ JEL İÇECEK
+Dialogue: 0,0:06:00.25,0:06:03.75,Sign_Basic,text,0,0,0,,{\an8\b1}MAYONEZLİ TON BALIĞI / TUZLU KIRMIZI SOMON
+Dialogue: 0,0:09:55.69,0:09:59.70,Sign_Basic,text,0,0,0,,{\an8\b1}NIKAIDO
+Dialogue: 0,0:11:47.31,0:11:51.81,Sign_Basic,text,0,0,0,,{\an8\b1}TEMEL İHTİYAÇ
+Dialogue: 0,0:21:05.36,0:21:08.99,Sign_Basic,text,0,0,0,,{\an8\b1}SİGARA / ALKOL / ATM
+Dialogue: 0,0:21:15.50,0:21:19.50,Sign_Basic,text,0,0,0,,{\an8\b1}PARIL PARIL!!
