@@ -1,0 +1,26 @@
+[Script Info]
+Title: The-Lumina-Company - Oh Boy, Was I Wrong About Her
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: Yes
+PlayResX: 1920
+PlayResY: 1080
+YCbCr Matrix: TV.709
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sign_Basic,Trebuchet MS,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,6,3,2,30,30,54,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:55.67,0:02:04.35,Sign_Basic,text,0,0,0,,{\b1\pos(960,123.334)}AH, ONUN HAKKINDA FENA YANILMIŞIM
+Dialogue: 0,0:03:12.96,0:03:18.21,Sign_Basic,text,0,0,0,,{\an8\b1}MALZEME ODASI
+Dialogue: 0,0:03:14.08,0:03:18.21,Sign_Basic,text,0,0,0,,{\an8\b1}BÖLÜM 2 "KIZ MUHABBETİNDEN HİÇ ANLAMIYORUM"
+Dialogue: 0,0:05:55.25,0:06:00.25,Sign_Basic,text,0,0,0,,{\an8\b1}KALORİ TAKVİYELİ JEL İÇECEK
+Dialogue: 0,0:06:00.25,0:06:03.75,Sign_Basic,text,0,0,0,,{\an8\b1}MAYONEZLİ TON BALIĞI / TUZLU KIRMIZI SOMON
+Dialogue: 0,0:09:55.69,0:09:59.70,Sign_Basic,text,0,0,0,,{\an8\b1}NIKAIDO
+Dialogue: 0,0:11:47.31,0:11:51.81,Sign_Basic,text,0,0,0,,{\an8\b1}TEMEL İHTİYAÇ
+Dialogue: 0,0:21:05.36,0:21:08.99,Sign_Basic,text,0,0,0,,{\an8\b1}SİGARA / ALKOL / ATM
+Dialogue: 0,0:21:15.50,0:21:19.50,Sign_Basic,text,0,0,0,,{\an8\b1}PARIL PARIL!!
