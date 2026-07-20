@@ -20,7 +20,7 @@ Style: Sign_Basic,Trebuchet MS,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:10.00,Main,,0,0,0,,{\pos(1890,30)\an9\fscx75\fscy75}{\c&H00D7FF&}► {\b1}Çeviri: {\b0\c&HFFFFFF&}ka4qnn\N{\c&HFF55AA&}► {\b1}Redaksiyon: {\b0\c&HFFFFFF&}shxd\N{\c&H55FF55&}► {\b1}Encode: {\b0\c&HFFFFFF&}shxd\N{\c&HFFFF55&}► {\b1}Upload: {\b0\c&HFFFFFF&}shxd\N\N{\c&HAAAAAA&\fscx65\fscy65}discord.gg/akzHAQ2Dh6
+Dialogue: 0,0:00:00.00,0:00:10.00,Main,,0,0,0,,{\pos(1890,30)\an9\fscx75\fscy75}{\c&H00D7FF&}► {\b1}Çeviri: {\b0\c&HFFFFFF&}ka4qnn, Plopy, shxd\N{\c&HFF55AA&}► {\b1}Redaksiyon: {\b0\c&HFFFFFF&}ka4qnn \N{\c&H55FF55&}► {\b1}Encode: {\b0\c&HFFFFFF&}shxd\N{\c&HFFFF55&}► {\b1}Upload: {\b0\c&HFFFFFF&}shxd\N\N{\c&HAAAAAA&\fscx65\fscy65}discord.gg/akzHAQ2Dh6
 Dialogue: 0,0:00:01.52,0:00:03.79,Main,Haruki,0,0,0,,İyi akşamlar, Kirishima-kun.
 Dialogue: 0,0:00:04.98,0:00:06.61,Main,Haruki,0,0,0,,Ne tesadüf ama.
 Dialogue: 0,0:00:07.65,0:00:09.11,Main,Hayato,0,0,0,,Evet, öyle gerçekten.
